@@ -1,0 +1,168 @@
+body {
+    background-color: rgb(250,250,250);
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.signup h2{
+    font-size: 15px;
+}
+
+.button h2 {
+    font-size: 18px;
+}
+
+.terms h2 {
+    margin-top: 10px; 
+    font-size: 15px;
+}
+
+.store_text h2 {
+    font-size: 15px;
+}
+
+.storeImages {
+    height: 40px;
+    width: 70%;
+}
+
+.container {
+    display: flex;
+    width: 50%;
+    height: 700px;
+    margin: 41px auto;
+}
+
+.placeholder {
+    margin: 90px 0px 90px 80px;
+}
+
+.placeholder img {
+    display: block;
+    width: 330px;
+    height: auto;
+}
+
+.flex {
+    display: flex;
+    width: 100%;
+    height: 40px;
+}
+
+.storeImagesFlex {
+    display: flex;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.line {
+    width: 40%;
+    height: 40px;
+}
+
+.innerBox {
+    padding: 30px 45px;
+    height: 90%;
+}
+
+.leftBox {
+    width: 55%;
+    height: auto;
+
+}
+
+.rightBox {
+    width: 45%;
+    height: auto;
+    background-color: white;
+}
+
+.instaLogo {
+    text-align: center;
+}
+
+.instaLogo img {
+    width: 80%;
+    height: auto;
+}
+
+.grey {
+    color: rgb(128,128,128);
+}
+
+.button {
+    background-color: rgb(81,151,233);
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+}
+
+.account {
+    margin: 40px 0px;
+}
+
+.account h2 {
+    font-size: 15px;
+}
+
+span {
+    color: blue;
+}
+
+.button h2 {
+    color: white;
+    font-size: 15px;
+}
+
+.OR {
+    width: 20%;
+}
+
+.OR h2 {
+    margin: 0px;
+    line-height: 40px;
+}
+
+.smallBox {
+    width: 100%;
+    height: 20px;
+}
+
+.border {
+    border-bottom: 1px solid black;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+    margin: 3px 0px;
+}
+
+.secondContainer {
+    display: flex;
+    width: 60%;
+    height: 700px;
+    margin: 41px auto;
+}
+
+ul {
+    margin: 20px auto;
+    color: rgb(50,89,128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+.instagram {
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+ul li {
+    display: inline;
+    padding: 0px 5px;
+}
